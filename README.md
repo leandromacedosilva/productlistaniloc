@@ -16,10 +16,14 @@ Melhor experiência no ponto de venda
 /assets/preview.png
 
 🚀 Acesse o Projeto
+<div>
 🔗 Repositório:
 👉 https://github.com/leandromacedosilva/productlistaniloc
+</div>
+<div>
 🌐 Deploy (GitHub Pages):
 👉 https://leandromacedosilva.github.io/productlistaniloc/
+</div>
 ⚙️ Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando tecnologias essenciais do frontend:
