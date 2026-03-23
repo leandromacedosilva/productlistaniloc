@@ -71,13 +71,18 @@ Front-End Developer
 
 📎 Sugestão: adicione aqui seus links
 
+<div>
 LinkedIn
 https://www.linkedin.com/in/leandromsilvasa
+</div>
+<div>
 Portfólio
 https://leandromacedosilva.github.io/portfoliovs1/
+</div>
+<div>
 GitHub
 https://github.com/leandromacedosilva/
-
+</div>
 ⭐ Destaque
 
 Projeto ideal para demonstrar domínio de fundamentos sólidos em frontend, com foco em organização, clareza e aplicação prática no contexto de negócios.
